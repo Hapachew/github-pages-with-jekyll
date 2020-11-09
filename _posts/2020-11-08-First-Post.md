@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "First Post"
+date: 2020-11-08
 ---
 
