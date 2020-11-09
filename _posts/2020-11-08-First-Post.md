@@ -1,1 +1,5 @@
-Hi everybody 
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
+
